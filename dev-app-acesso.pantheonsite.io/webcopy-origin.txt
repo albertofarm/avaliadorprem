@@ -1,0 +1,196 @@
+Uri: https://avaliadorpremiadoapp.online/pesquisas/assets/imgs/logo.png
+File Name: C:\Downloaded Web Sites\quizz22\dev-app-acesso.pantheonsite.io\pesquisas\assets\imgs\logo.png
+Content Type: image/png
+
+Uri: https://cdn.jsdelivr.net/npm/notiflix@2.6.0/dist/notiflix-aio-2.6.0.min.js
+File Name: C:\Downloaded Web Sites\quizz22\dev-app-acesso.pantheonsite.io\npm\notiflix@2.6.0\dist\notiflix-aio-2.6.0.min.js
+Content Type: application/javascript
+
+Uri: https://dev-app-acesso.pantheonsite.io/avaliar/
+File Name: C:\Downloaded Web Sites\quizz22\dev-app-acesso.pantheonsite.io\avaliar\index.htm
+Content Type: text/html
+
+Uri: https://dev-app-acesso.pantheonsite.io/avaliar/2/
+File Name: C:\Downloaded Web Sites\quizz22\dev-app-acesso.pantheonsite.io\avaliar\2\index.htm
+Content Type: text/html
+
+Uri: https://dev-app-acesso.pantheonsite.io/avaliar/2/avaliar3/
+File Name: C:\Downloaded Web Sites\quizz22\dev-app-acesso.pantheonsite.io\avaliar\2\avaliar3\index.htm
+Content Type: text/html
+
+Uri: https://dev-app-acesso.pantheonsite.io/avaliar/2/avaliar3/4/
+File Name: C:\Downloaded Web Sites\quizz22\dev-app-acesso.pantheonsite.io\avaliar\2\avaliar3\4\index.htm
+Content Type: text/html
+
+Uri: https://dev-app-acesso.pantheonsite.io/avaliar/2/avaliar3/4/5/
+File Name: C:\Downloaded Web Sites\quizz22\dev-app-acesso.pantheonsite.io\avaliar\2\avaliar3\4\5\index.htm
+Content Type: text/html
+
+Uri: https://dev-app-acesso.pantheonsite.io/avaliar/2/avaliar3/4/5/6/
+File Name: C:\Downloaded Web Sites\quizz22\dev-app-acesso.pantheonsite.io\avaliar\2\avaliar3\4\5\6\index.htm
+Content Type: text/html
+
+Uri: https://dev-app-acesso.pantheonsite.io/avaliar/2/avaliar3/4/5/6/css/styles.css
+File Name: C:\Downloaded Web Sites\quizz22\dev-app-acesso.pantheonsite.io\avaliar\2\avaliar3\4\5\6\css\styles.css
+Content Type: text/css
+
+Uri: https://dev-app-acesso.pantheonsite.io/avaliar/2/avaliar3/4/5/6/images/logo.png
+File Name: C:\Downloaded Web Sites\quizz22\dev-app-acesso.pantheonsite.io\avaliar\2\avaliar3\4\5\6\images\logo.png
+Content Type: image/png
+
+Uri: https://dev-app-acesso.pantheonsite.io/avaliar/2/avaliar3/4/5/css/styles.css
+File Name: C:\Downloaded Web Sites\quizz22\dev-app-acesso.pantheonsite.io\avaliar\2\avaliar3\4\5\css\styles.css
+Content Type: text/css
+
+Uri: https://dev-app-acesso.pantheonsite.io/avaliar/2/avaliar3/4/5/images/claro.png
+File Name: C:\Downloaded Web Sites\quizz22\dev-app-acesso.pantheonsite.io\avaliar\2\avaliar3\4\5\images\claro.png
+Content Type: image/png
+
+Uri: https://dev-app-acesso.pantheonsite.io/avaliar/2/avaliar3/4/5/images/logo.png
+File Name: C:\Downloaded Web Sites\quizz22\dev-app-acesso.pantheonsite.io\avaliar\2\avaliar3\4\5\images\logo.png
+Content Type: image/png
+
+Uri: https://dev-app-acesso.pantheonsite.io/avaliar/2/avaliar3/4/css/styles.css
+File Name: C:\Downloaded Web Sites\quizz22\dev-app-acesso.pantheonsite.io\avaliar\2\avaliar3\4\css\styles.css
+Content Type: text/css
+
+Uri: https://dev-app-acesso.pantheonsite.io/avaliar/2/avaliar3/4/images/logo.png
+File Name: C:\Downloaded Web Sites\quizz22\dev-app-acesso.pantheonsite.io\avaliar\2\avaliar3\4\images\logo.png
+Content Type: image/png
+
+Uri: https://dev-app-acesso.pantheonsite.io/avaliar/2/avaliar3/4/images/uber.png
+File Name: C:\Downloaded Web Sites\quizz22\dev-app-acesso.pantheonsite.io\avaliar\2\avaliar3\4\images\uber.png
+Content Type: image/png
+
+Uri: https://dev-app-acesso.pantheonsite.io/avaliar/2/avaliar3/css/styles.css
+File Name: C:\Downloaded Web Sites\quizz22\dev-app-acesso.pantheonsite.io\avaliar\2\avaliar3\css\styles.css
+Content Type: text/css
+
+Uri: https://dev-app-acesso.pantheonsite.io/avaliar/2/avaliar3/images/celularsamsung.png
+File Name: C:\Downloaded Web Sites\quizz22\dev-app-acesso.pantheonsite.io\avaliar\2\avaliar3\images\celularsamsung.png
+Content Type: image/png
+
+Uri: https://dev-app-acesso.pantheonsite.io/avaliar/2/avaliar3/images/logo.png
+File Name: C:\Downloaded Web Sites\quizz22\dev-app-acesso.pantheonsite.io\avaliar\2\avaliar3\images\logo.png
+Content Type: image/png
+
+Uri: https://dev-app-acesso.pantheonsite.io/avaliar/2/css/styles.css
+File Name: C:\Downloaded Web Sites\quizz22\dev-app-acesso.pantheonsite.io\avaliar\2\css\styles.css
+Content Type: text/css
+
+Uri: https://dev-app-acesso.pantheonsite.io/avaliar/2/images/logo.png
+File Name: C:\Downloaded Web Sites\quizz22\dev-app-acesso.pantheonsite.io\avaliar\2\images\logo.png
+Content Type: image/png
+
+Uri: https://dev-app-acesso.pantheonsite.io/avaliar/2/images/tenisadidas.png
+File Name: C:\Downloaded Web Sites\quizz22\dev-app-acesso.pantheonsite.io\avaliar\2\images\tenisadidas.png
+Content Type: image/png
+
+Uri: https://dev-app-acesso.pantheonsite.io/avaliar/css/styles.css
+File Name: C:\Downloaded Web Sites\quizz22\dev-app-acesso.pantheonsite.io\avaliar\css\styles.css
+Content Type: text/css
+
+Uri: https://dev-app-acesso.pantheonsite.io/avaliar/images/coca.png
+File Name: C:\Downloaded Web Sites\quizz22\dev-app-acesso.pantheonsite.io\avaliar\images\coca.png
+Content Type: image/png
+
+Uri: https://dev-app-acesso.pantheonsite.io/avaliar/images/logo.png
+File Name: C:\Downloaded Web Sites\quizz22\dev-app-acesso.pantheonsite.io\avaliar\images\logo.png
+Content Type: image/png
+
+Uri: https://fonts.googleapis.com/css2?family=Hanken+Grotesk&amp;display=swap
+File Name: C:\Downloaded Web Sites\quizz22\dev-app-acesso.pantheonsite.io\css2
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Roboto:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Roboto+Slab:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&display=swap&ver=6.2.2
+File Name: C:\Downloaded Web Sites\quizz22\dev-app-acesso.pantheonsite.io\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/hankengrotesk/v8/ieVq2YZDLWuGJpnzaiwFXS9tYvBRzyFLlZg_f_Ncs2Za4Q.ttf
+File Name: C:\Downloaded Web Sites\quizz22\dev-app-acesso.pantheonsite.io\s\hankengrotesk\v8\ieVq2YZDLWuGJpnzaiwFXS9tYvBRzyFLlZg_f_Ncs2Za4Q.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOiCnqEu92Fr1Mu51QrEzAdKg.ttf
+File Name: C:\Downloaded Web Sites\quizz22\dev-app-acesso.pantheonsite.io\s\roboto\v30\KFOiCnqEu92Fr1Mu51QrEzAdKg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51S7ACc6CsE.ttf
+File Name: C:\Downloaded Web Sites\quizz22\dev-app-acesso.pantheonsite.io\s\roboto\v30\KFOjCnqEu92Fr1Mu51S7ACc6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TjASc6CsE.ttf
+File Name: C:\Downloaded Web Sites\quizz22\dev-app-acesso.pantheonsite.io\s\roboto\v30\KFOjCnqEu92Fr1Mu51TjASc6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TLBCc6CsE.ttf
+File Name: C:\Downloaded Web Sites\quizz22\dev-app-acesso.pantheonsite.io\s\roboto\v30\KFOjCnqEu92Fr1Mu51TLBCc6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TzBic6CsE.ttf
+File Name: C:\Downloaded Web Sites\quizz22\dev-app-acesso.pantheonsite.io\s\roboto\v30\KFOjCnqEu92Fr1Mu51TzBic6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOkCnqEu92Fr1MmgVxIIzc.ttf
+File Name: C:\Downloaded Web Sites\quizz22\dev-app-acesso.pantheonsite.io\s\roboto\v30\KFOkCnqEu92Fr1MmgVxIIzc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOkCnqEu92Fr1Mu51xIIzc.ttf
+File Name: C:\Downloaded Web Sites\quizz22\dev-app-acesso.pantheonsite.io\s\roboto\v30\KFOkCnqEu92Fr1Mu51xIIzc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmEU9fBBc9.ttf
+File Name: C:\Downloaded Web Sites\quizz22\dev-app-acesso.pantheonsite.io\s\roboto\v30\KFOlCnqEu92Fr1MmEU9fBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmSU5fBBc9.ttf
+File Name: C:\Downloaded Web Sites\quizz22\dev-app-acesso.pantheonsite.io\s\roboto\v30\KFOlCnqEu92Fr1MmSU5fBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+File Name: C:\Downloaded Web Sites\quizz22\dev-app-acesso.pantheonsite.io\s\roboto\v30\KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmYUtfBBc9.ttf
+File Name: C:\Downloaded Web Sites\quizz22\dev-app-acesso.pantheonsite.io\s\roboto\v30\KFOlCnqEu92Fr1MmYUtfBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu4mxP.ttf
+File Name: C:\Downloaded Web Sites\quizz22\dev-app-acesso.pantheonsite.io\s\roboto\v30\KFOmCnqEu92Fr1Mu4mxP.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjo0oSmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\quizz22\dev-app-acesso.pantheonsite.io\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjo0oSmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4Omb2Rm.ttf
+File Name: C:\Downloaded Web Sites\quizz22\dev-app-acesso.pantheonsite.io\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4Omb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDIOmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\quizz22\dev-app-acesso.pantheonsite.io\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDIOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDISmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\quizz22\dev-app-acesso.pantheonsite.io\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDISmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\quizz22\dev-app-acesso.pantheonsite.io\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojIWmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\quizz22\dev-app-acesso.pantheonsite.io\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojIWmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoJYOmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\quizz22\dev-app-acesso.pantheonsite.io\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoJYOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoUoOmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\quizz22\dev-app-acesso.pantheonsite.io\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoUoOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\quizz22\dev-app-acesso.pantheonsite.io\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSmb2Rm.ttf
+Content Type: font/ttf
+
